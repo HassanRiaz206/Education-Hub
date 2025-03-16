@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "121283856851",
+    "firebase_url": "https://education-hub-c19d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "education-hub-c19d1",
+    "storage_bucket": "education-hub-c19d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121283856851:android:41276cf6b843bed0514726",
+        "android_client_info": {
+          "package_name": "com.adeeb.EducationHUB"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd3JM3rJ9Lz5fRISQ5XAJvb_mVKkWT68U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
