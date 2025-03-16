@@ -1,0 +1,211 @@
+{
+  "groupEnrollments": {
+    "Communication": {
+      "001": {
+        "fullName": "Hassan",
+        "rollNumber": "001"
+      }
+    },
+    "English Group": {
+      "001": {
+        "fullName": "Hassan",
+        "rollNumber": "001"
+      },
+      "004": {
+        "fullName": "Hassan Riaz",
+        "rollNumber": "004"
+      }
+    },
+    "Math Study": {
+      "001": {
+        "fullName": "Hassan",
+        "rollNumber": "001"
+      },
+      "002": {
+        "fullName": "Wahab",
+        "rollNumber": "002"
+      },
+      "003": {
+        "fullName": "bb",
+        "rollNumber": "003"
+      }
+    },
+    "Math Study Group": {
+      "001": {
+        "fullName": "Hassan",
+        "rollNumber": "001"
+      },
+      "003": {
+        "fullName": "bb",
+        "rollNumber": "003"
+      },
+      "004": {
+        "fullName": "Hassan Riaz",
+        "rollNumber": "004"
+      }
+    },
+    "Science Group study": {
+      "003": {
+        "fullName": "bb",
+        "rollNumber": "003"
+      }
+    },
+    "Study": {
+      "001": {
+        "fullName": "Hassan",
+        "rollNumber": "001"
+      }
+    },
+    "Teaching": {
+      "001": {
+        "fullName": "Hassan",
+        "rollNumber": "001"
+      }
+    }
+  },
+  "rollNumberCounter": 4,
+  "teacherGroups": {
+    "5b66d183-29fd-4c62-b04d-7d1fb2a53190": {
+      "-OLBQdFVBjU1os2mYJxy": {
+        "groupGrade": "44",
+        "groupName": "HHH",
+        "groupSubject": "aa"
+      }
+    },
+    "ADB0": {
+      "-OLPFAqc94TCu-MI0fq-": {
+        "groupGrade": "Class 10",
+        "groupName": "Math Study Group",
+        "groupSubject": "Mathmetics"
+      },
+      "-OLPFK7NIlblY6UEBGo_": {
+        "groupGrade": "Class 9",
+        "groupName": "English Group",
+        "groupSubject": "ENglish"
+      }
+    },
+    "Asma110": {
+      "-OLBddFFoubi3EO0tta-": {
+        "groupGrade": "Class 10",
+        "groupName": "Math Study",
+        "groupSubject": "Mathmetics"
+      },
+      "-OLBigUkKxifRh7B1CBA": {
+        "groupGrade": "Class 9",
+        "groupName": "English Group",
+        "groupSubject": "English"
+      },
+      "-OLBjsektycjvN9Imy9j": {
+        "groupGrade": "Class 11",
+        "groupName": "Science Group study",
+        "groupSubject": "Science"
+      },
+      "-OLBzNqkHmIswEOVMuoN": {
+        "groupGrade": "9",
+        "groupName": "Study",
+        "groupSubject": "study"
+      },
+      "-OLFC0-k0Jq3vtSpEALq": {
+        "groupGrade": "Class 12",
+        "groupName": "Teaching",
+        "groupSubject": "Communication"
+      },
+      "enrolledStudents": {
+        "001": {
+          "name": "Hassan",
+          "rollNo": "001"
+        },
+        "003": {
+          "name": "bb",
+          "rollNo": "003"
+        }
+      }
+    },
+    "Fatima": {
+      "-OLFCSoVCcjmjfUoTpKm": {
+        "groupGrade": "Class 10",
+        "groupName": "Communication",
+        "groupSubject": "Communication skills"
+      }
+    },
+    "c729ada0-9aa8-4227-9a15-ca886dd66125": {
+      "-OLBMjFVl3QorOQe5eBl": {
+        "groupGrade": "Class 10",
+        "groupName": "Islamic Study Group",
+        "groupSubject": "Islam"
+      }
+    }
+  },
+  "users": {
+    "ADB": {
+      "fullName": "Adeeb",
+      "organization": "As a Teacher",
+      "password": "9999",
+      "rollNumber": "",
+      "username": "ADB"
+    },
+    "ADB0": {
+      "fullName": "Adeeb",
+      "organization": "As a Teacher",
+      "password": "2222",
+      "rollNumber": "",
+      "username": "ADB0"
+    },
+    "Asma110": {
+      "fullName": "Teacher Asma",
+      "organization": "As a Teacher",
+      "password": "001",
+      "rollNumber": "",
+      "username": "Asma110"
+    },
+    "Fatima": {
+      "fullName": "Teacher Fatima",
+      "organization": "As a Teacher",
+      "password": "1234",
+      "rollNumber": "",
+      "username": "Fatima"
+    },
+    "Hassan0": {
+      "fullName": "Hassan Riaz",
+      "organization": "As a Student",
+      "password": "1111",
+      "rollNumber": "004",
+      "username": "Hassan0"
+    },
+    "WHB": {
+      "fullName": "Wahab",
+      "organization": "As a Student",
+      "password": "1111",
+      "rollNumber": "002",
+      "username": "WHB"
+    },
+    "Zoh": {
+      "fullName": "Zoha",
+      "organization": "Choose the Organization",
+      "password": "Zoha0",
+      "rollNumber": "",
+      "username": "Zoh"
+    },
+    "aqs": {
+      "fullName": "Aqsa",
+      "organization": "Choose the Organization",
+      "password": "8888",
+      "rollNumber": "",
+      "username": "aqs"
+    },
+    "br": {
+      "fullName": "bb",
+      "organization": "As a Student",
+      "password": "44",
+      "rollNumber": "003",
+      "username": "br"
+    },
+    "hsni": {
+      "fullName": "Hassan",
+      "organization": "As a Student",
+      "password": "0000",
+      "rollNumber": "001",
+      "username": "hsni"
+    }
+  }
+}
